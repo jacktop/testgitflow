@@ -1,2 +1,2 @@
 feature1
-from F_add_feature2
+from F_add_feature1
